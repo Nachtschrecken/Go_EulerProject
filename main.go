@@ -3,5 +3,5 @@ package main
 import "go_euler/tasks"
 
 func main() {
-	tasks.LatticePaths()
+	tasks.MaximumPathSum()
 }
